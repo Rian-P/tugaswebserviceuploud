@@ -7,7 +7,8 @@ import string
 from flask_sqlalchemy import SQLAlchemy
 from werkzeug.utils import secure_filename
 from werkzeug.security import check_password_hash
-
+#nama:Rian pratama 19090069
+#nama :wahyu zuhudistia khoiri 19090129
 project_dir = os.path.dirname(os.path.abspath(__file__))
 app = Flask(__name__)
 UPLOAD_FOLDER = 'hasil_upload'
